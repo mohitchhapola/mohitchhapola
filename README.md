@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, NodeJS, MongoDb**
 
-- 📫 How to reach me **Mohit.sircl@gmail.com**
+- 📫 How to reach me **mohit.sircl@gmail.com**
 
 - ⚡ Fun fact **I Think I am happy**
 
