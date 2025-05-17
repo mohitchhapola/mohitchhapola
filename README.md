@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **E-Commerce (MERN)**
 
-- 🌱 I’m currently learning **React, NodeJS, MongoDb**
+- 🌱 I’m currently learning **Nest Js, NodeJS, PostgreSql**
 
 - 📫 How to reach me **mohit.sircl@gmail.com**
 
